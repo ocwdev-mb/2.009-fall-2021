@@ -1,0 +1,9 @@
+leftnav:
+- identifier: external--313796791-1648844328787
+  name: 2.009 PRODUCT ENGINEERING PROCESS
+  url: https://web.mit.edu/2.009/www/index.html
+  weight: 10
+- identifier: external-1219711731-1648844356519
+  name: 2.S009 Explorations in Product Design
+  url: https://2s009.com/
+  weight: 20
